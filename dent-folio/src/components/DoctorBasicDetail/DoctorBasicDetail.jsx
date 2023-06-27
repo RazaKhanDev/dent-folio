@@ -2,7 +2,7 @@ import React from "react";
 import profile from "../../../public/images/profile1.png";
 import Image from "next/image";
 
-import map from "../../../public/images/map.png";
+
 const DoctorBasicDetail = () => {
   return (
     <div className="sizingStyles flex flex-row justify-between">
